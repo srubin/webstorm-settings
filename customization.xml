@@ -1,0 +1,9 @@
+<application>
+  <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="Git.Pull" is_action="true" action_type="1" position="4">
+      <path value="root" />
+      <path value="VCS Operations Popup" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+  </component>
+</application>
