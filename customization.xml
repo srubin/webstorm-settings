@@ -5,5 +5,10 @@
       <path value="VCS Operations Popup" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="Github.Create.Pull.Request" is_action="true" action_type="1" position="5">
+      <path value="root" />
+      <path value="VCS Operations Popup" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
   </component>
 </application>
