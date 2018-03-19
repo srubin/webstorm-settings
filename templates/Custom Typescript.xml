@@ -1,5 +1,5 @@
 <templateSet group="Custom Typescript">
-  <template name="idc" value="// IDataCodee&#10;createFromCoder(coder: DataCoder): $TYPE$ {&#10;    const obj = new $TYPE$();&#10;    obj.decodeProperties(coder);&#10;    return obj;&#10;}&#10;&#10;readonly typeName: string = '$NAME$';&#10;&#10;encodeProperties(coder: DataCoder) {&#10;    super.encodeProperties(coder);&#10;    $END$&#10;}&#10;&#10;decodeProperties(coder: DataCoder) {&#10;    super.decodeProperties(coder);&#10;}" description="IDataCodee" toReformat="false" toShortenFQNames="true">
+  <template name="idc" value="// IDataCodee implementation&#10;createFromCoder(coder: DataCoder): $TYPE$ {&#10;    const obj = new $TYPE$();&#10;    obj.decodeProperties(coder);&#10;    return obj;&#10;}&#10;&#10;readonly typeName: string = '$NAME$';&#10;&#10;encodeProperties(coder: DataCoder) {&#10;    super.encodeProperties(coder);&#10;    $END$&#10;}&#10;&#10;decodeProperties(coder: DataCoder) {&#10;    super.decodeProperties(coder);&#10;}" description="IDataCodee" toReformat="false" toShortenFQNames="true">
     <variable name="TYPE" expression="" defaultValue="CodeeType" alwaysStopAt="true" />
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
