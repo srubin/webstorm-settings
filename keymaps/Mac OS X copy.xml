@@ -3,7 +3,8 @@
     <keyboard-shortcut first-keystroke="meta v" />
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
-  <action id="CloseActiveTab">
+  <action id="CloseActiveTab" />
+  <action id="CloseContent">
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
   <action id="Editor Paste">
