@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="md" type="Native" />
+      <mapping ext="tgz" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
