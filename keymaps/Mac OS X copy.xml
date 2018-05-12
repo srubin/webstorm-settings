@@ -35,4 +35,7 @@
     <keyboard-shortcut first-keystroke="ctrl a" />
   </action>
   <action id="EditorSelectWord" />
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="shift meta o" />
+  </action>
 </keymap>
