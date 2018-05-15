@@ -67,7 +67,4 @@
   <action id="Vcs.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="alt v" />
   </action>
-  <action id="SearchEverywhere">
-    <keyboard-shortcut first-keystroke="shift meta o" />
-  </action>
 </keymap>
