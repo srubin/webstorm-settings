@@ -1,38 +1,13 @@
 <keymap version="1" name="Mac OS X copy" parent="Mac OS X">
-  <action id="$Copy">
-    <keyboard-shortcut first-keystroke="meta c" />
-    <keyboard-shortcut first-keystroke="meta insert" />
-    <keyboard-shortcut first-keystroke="ctrl c" />
-  </action>
-  <action id="$Cut">
-    <keyboard-shortcut first-keystroke="meta x" />
-    <keyboard-shortcut first-keystroke="shift delete" />
-    <keyboard-shortcut first-keystroke="ctrl x" />
-  </action>
   <action id="$Paste">
     <keyboard-shortcut first-keystroke="meta v" />
     <keyboard-shortcut first-keystroke="ctrl y" />
-    <keyboard-shortcut first-keystroke="ctrl v" />
-  </action>
-  <action id="$Undo">
-    <keyboard-shortcut first-keystroke="meta z" />
-    <keyboard-shortcut first-keystroke="ctrl z" />
   </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
-  <action id="Editor Copy">
-    <keyboard-shortcut first-keystroke="ctrl c" />
-  </action>
-  <action id="Editor Cut">
-    <keyboard-shortcut first-keystroke="ctrl x" />
-  </action>
   <action id="Editor Paste">
     <keyboard-shortcut first-keystroke="ctrl y" />
-    <keyboard-shortcut first-keystroke="ctrl v" />
-  </action>
-  <action id="Editor Undo">
-    <keyboard-shortcut first-keystroke="ctrl z" />
   </action>
   <action id="EditorDelete">
     <keyboard-shortcut first-keystroke="delete" />
@@ -60,11 +35,7 @@
     <keyboard-shortcut first-keystroke="ctrl a" />
   </action>
   <action id="EditorSelectWord" />
-  <action id="SaveAll">
-    <keyboard-shortcut first-keystroke="meta s" />
-    <keyboard-shortcut first-keystroke="ctrl s" />
-  </action>
-  <action id="Vcs.QuickListPopupAction">
-    <keyboard-shortcut first-keystroke="alt v" />
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="shift meta o" />
   </action>
 </keymap>
