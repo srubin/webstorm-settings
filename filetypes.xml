@@ -1,8 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <mapping ext="mdown" type="Markdown" />
-      <mapping ext="tgz" type="PLAIN_TEXT" />
-    </extensionMap>
-  </component>
-</application>

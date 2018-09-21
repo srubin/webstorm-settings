@@ -1,9 +1,0 @@
-<application>
-  <component name="AbbreviationManager">
-    <abbreviations>
-      <action id="Github.Create.Pull.Request">
-        <abbreviation name="PR" />
-      </action>
-    </abbreviations>
-  </component>
-</application>
