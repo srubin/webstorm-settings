@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="mdown" type="Markdown" />
       <mapping ext="tgz" type="PLAIN_TEXT" />
+      <mapping ext="edl" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
