@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="mdown" type="Markdown" />
+      <mapping pattern="exit-correct-text-mode-icon.svg" type="PLAIN_TEXT" />
       <mapping ext="tgz" type="PLAIN_TEXT" />
       <mapping ext="edl" type="PLAIN_TEXT" />
     </extensionMap>
