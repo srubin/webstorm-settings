@@ -13,6 +13,10 @@
     <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context />
   </template>
+  <template name="audio" value="&lt;audio src=&quot;$VAR0$&quot;&gt;$END$&lt;/audio&gt;" description="&lt;audio src=&quot;...&quot;&gt;...&lt;/audio&gt;" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
   <template name="str" value="&lt;strong&gt;$END$&lt;/strong&gt;" description="&lt;strong&gt;...&lt;/strong&gt;" toReformat="true" toShortenFQNames="true">
     <context />
   </template>
