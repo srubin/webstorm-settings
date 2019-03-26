@@ -6,6 +6,10 @@
     <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context />
   </template>
+  <template name="map" value="&lt;map name=&quot;$VAR0$&quot;&gt;$END$&lt;/map&gt;" description="&lt;map name=&quot;...&quot;&gt;...&lt;/map&gt;" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
   <template name="str" value="&lt;strong&gt;$END$&lt;/strong&gt;" description="&lt;strong&gt;...&lt;/strong&gt;" toReformat="true" toShortenFQNames="true">
     <context />
   </template>
