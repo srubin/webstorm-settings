@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".tsconfig" type="JSON" />
       <mapping ext="mdown" type="Markdown" />
+      <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
       <mapping pattern="exit-correct-text-mode-icon.svg" type="PLAIN_TEXT" />
       <mapping ext="tgz" type="PLAIN_TEXT" />
       <mapping ext="edl" type="PLAIN_TEXT" />
