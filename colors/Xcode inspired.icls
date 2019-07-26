@@ -415,6 +415,9 @@
         <option name="ERROR_STRIPE_COLOR" value="cccccc" />
       </value>
     </option>
+    <option name="TS.TYPE_GUARD">
+      <value />
+    </option>
     <option name="TYPE_PARAMETER_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="6f33a7" />
