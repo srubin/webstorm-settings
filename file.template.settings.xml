@@ -1,7 +1,7 @@
 <application>
   <component name="ExportableFileTemplateSettings">
     <default_templates>
-      <template name="Typescript Test༏ext༏.test.ts" reformat="true" live-template-enabled="true" />
+      <template name="Markdown File.md" reformat="true" live-template-enabled="true" />
     </default_templates>
   </component>
 </application>
