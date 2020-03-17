@@ -1,0 +1,4 @@
+<templateSet group="Pest">
+  <template name="whitespace" value="WHITESPACE = _{ $END$ }" description="WHITESPACE = _{ ... }" toReformat="true" toShortenFQNames="true" deactivated="true" />
+  <template name="comment" value="COMMENT = _{ $END$ }" description="COMMENT = _{ ... }" toReformat="false" toShortenFQNames="true" deactivated="true" />
+</templateSet>
