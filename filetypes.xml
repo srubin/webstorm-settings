@@ -4,9 +4,9 @@
       <mapping pattern=".tsconfig" type="JSON" />
       <mapping ext="mdown" type="Markdown" />
       <mapping pattern="exit-correct-text-mode-icon.svg" type="PLAIN_TEXT" />
-      <mapping pattern="ModelHelpers_3_6_0.ts" type="PLAIN_TEXT" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping pattern="ModelHelpers_3_6_0.ts" type="PLAIN_TEXT" />
       <mapping ext="edl" type="PLAIN_TEXT" />
       <mapping ext="tgz" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
