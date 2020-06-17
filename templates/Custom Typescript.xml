@@ -34,7 +34,7 @@
       <option name="TS_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="fb" value="import $NAME$ from 'fbjs/lib/$NAME$';&#10;" toReformat="false" toShortenFQNames="true">
+  <template name="fb" value="import $NAME$ from 'fbjs/lib/$NAME$';&#10;" description="" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="TypeScript" value="true" />
