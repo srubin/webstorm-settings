@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Non-tests" />
+    <option name="defaultScopeName" value="Non-tests" />
+    <option name="SEARCH_SCOPE" value="Non-tests" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -13,8 +13,8 @@
     <mask>*.mxml</mask>
     <mask>*.md</mask>
     <mask>*.js</mask>
-    <mask>*.test.ts</mask>
     <mask>*.tsx</mask>
     <mask>*.ts</mask>
+    <mask>*.test.ts</mask>
   </component>
 </application>
