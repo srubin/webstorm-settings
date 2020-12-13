@@ -16,4 +16,11 @@
       <option name="JSP" value="true" />
     </context>
   </template>
+  <template name="people" value="---&#10;title: &quot;$NAME$&quot;&#10;link: &quot;$LINK$&quot;&#10;write: false&#10;---&#10;$END$" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="LINK" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
 </templateSet>
