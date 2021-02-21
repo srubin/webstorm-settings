@@ -3,6 +3,6 @@
     <option name="UI_FILTER_LEGALS" value="true" />
   </component>
   <component name="UISettings">
-    <option name="SHOW_MEMORY_INDICATOR" value="true" />
+    <option name="IDE_AA_TYPE" value="Greyscale" />
   </component>
 </application>
