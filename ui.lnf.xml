@@ -1,0 +1,8 @@
+<application>
+  <component name="DependencyUISettings">
+    <option name="UI_FILTER_LEGALS" value="true" />
+  </component>
+  <component name="UISettings">
+    <option name="IDE_AA_TYPE" value="Greyscale" />
+  </component>
+</application>
