@@ -8,7 +8,6 @@
     <option name="useSafeWrite" value="false" />
   </component>
   <component name="Registry">
-    <entry key="bigger.font.in.project.view" value="true" />
     <entry key="js.debugger.webconsole" value="false" />
   </component>
   <component name="StatusBar">
