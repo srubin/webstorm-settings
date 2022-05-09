@@ -7,6 +7,7 @@
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
       <mapping pattern="ModelHelpers_3_6_0.ts" type="PLAIN_TEXT" />
       <mapping pattern="exit-correct-text-mode-icon.svg" type="PLAIN_TEXT" />
+      <mapping ext="imovieevent" type="PLAIN_TEXT" />
       <mapping ext="edl" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="tgz" type="PLAIN_TEXT" />
