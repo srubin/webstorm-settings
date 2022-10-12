@@ -40,4 +40,19 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="kk" value="ctx: AsyncContext | undefined," shortcut="SPACE" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="jj" value="NO_CTX," shortcut="SPACE" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="ff" value="ctx," shortcut="SPACE" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
