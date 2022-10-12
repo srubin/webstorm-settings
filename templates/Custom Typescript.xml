@@ -40,7 +40,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="kk" value="ctx: AsyncContext | undefined," shortcut="SPACE" toReformat="true" toShortenFQNames="true">
+  <template name="dd" value="ctx: AsyncContext | undefined," shortcut="SPACE" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="TypeScript" value="true" />
     </context>
