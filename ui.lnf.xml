@@ -2,7 +2,4 @@
   <component name="DependencyUISettings">
     <option name="UI_FILTER_LEGALS" value="true" />
   </component>
-  <component name="UISettings">
-    <option name="PIN_FIND_IN_PATH_POPUP" value="true" />
-  </component>
 </application>
