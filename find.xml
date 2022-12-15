@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project Files" />
-    <option name="defaultScopeName" value="Project Files" />
-    <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="customScope" value="Project 'descript-web-v2'" />
+    <option name="defaultScopeName" value="Project 'descript-web-v2'" />
+    <option name="SEARCH_SCOPE" value="Project 'descript-web-v2'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
